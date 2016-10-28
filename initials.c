@@ -6,7 +6,7 @@
 
 int main(void)
 {
-    
+    //comment
   string strName = " ";
   int d = 0;
 //  printf("Enter your name: ");
